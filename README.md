@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# Climate Challenge Week 0
 
 
@@ -44,7 +45,7 @@ cd climate-challenge-week0
 
 
 
-\## 🐍 Create Virtual Environment
+\##  Create Virtual Environment
 
 
 
